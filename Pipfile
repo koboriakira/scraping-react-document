@@ -8,6 +8,7 @@ verify_ssl = true
 [packages]
 gazpacho = "*"
 autoscraper = "*"
+ngsl = "*"
 
 [requires]
 python_version = "3.9"
